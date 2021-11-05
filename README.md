@@ -20,3 +20,6 @@ Observations drawn out:
 Further after completion of visualization and drawing insights, it can be shared to Medical/Health Organizations. 
 
 For reference: You can refer to my Tableau dashboard on this link [COVID 19 Data Visualization](https://public.tableau.com/app/profile/kushal4325/viz/covid19tableau_16315389035030/Dashboard1?publish=yes)
+
+
+![Dashboard 1](https://user-images.githubusercontent.com/40695609/140492319-27db18ce-cbe8-4d02-a0fa-cd93ba950f95.png)
